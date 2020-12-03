@@ -85,7 +85,7 @@ using namespace CEC;
 #define EVENT_VALID         0x007F
 #define EVENT_ALL           0x007F
 
-//#define DEBUG 1
+#define DEBUG 1
 
 #ifdef DEBUG
 # define debug(...) printf("CEC DEBUG: " __VA_ARGS__)
